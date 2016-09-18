@@ -3,6 +3,7 @@ https://docs.google.com/presentation/d/1bl79Uj2x6QeOZyePd5o_TP8Mx4-SGdn5A3dOhUEP
 
 # showcase video
 https://github.com/HackZurich16-flatvote/doc/blob/master/showcase_video.mp4
+
 includes basic scenarios of flatvote
 
 * login into the application - other login-methods possible like social media, which includes friendgroups
